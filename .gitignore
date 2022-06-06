@@ -1,3 +1,7 @@
 tmp
 go.mod
 goblog
+.DS_Store
+.editorconfig
+go.sum
+.vscode/launch.json
